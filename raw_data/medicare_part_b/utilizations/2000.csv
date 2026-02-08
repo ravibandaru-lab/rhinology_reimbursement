@@ -1,9 +1,4 @@
-Medicare Part Physician/Supplier BESS Data,,,,,
-For Calendar Year 2000,,,,,
-Code Ranges 30000 - 32999,,,,,
-,,,,,
 HCPCS,MODIFIER,DESCRIPTION,ALLOWED SERVICES,ALLOWED CHARGES,PAYMENT
-,,,,,
 30000,80'S,RESPIRATORY,1,$7,$6
 ,OTHER,,158,"$13,458","$10,282"
 ,TOTAL,,159,"$13,465","$10,287"

@@ -1,9 +1,4 @@
-﻿CPT only copyright 2017 American Medical Association. All rights reserved.,,,,,,,,
-,,,,,,,,
-"""2017 Part B National Summary Data File
-Code Range: 02) Surgery (10000 - 69999)"" ",,,,,,,,
-This data table begins with column headers on row 5 and data cells are A-6 through F-17926,,,,,,,,
-DESCRIPTION,HCPCS,MODIFIER,ALLOWED SERVICES,ALLOWED CHARGES,PAYMENT,,,
+﻿DESCRIPTION,HCPCS,MODIFIER,ALLOWED SERVICES,ALLOWED CHARGES,PAYMENT,,,
 CARDIOVASCULAR,33010,80S,N/A,$18.32,$14.37,,,
 CARDIOVASCULAR,33010,OTHER,"5,811","$565,742.95","$440,227.77",,,
 CARDIOVASCULAR,33010,TOTAL,"5,812","$565,761.27","$440,242.14",,,

@@ -1,7 +1,3 @@
-,,Medicare Part B Physician/Supplier BESS Data,,,
-,,For Calendar Year 2008,,,
-,,Code Ranges 30000 - 32999,,,
-,,,,,
 HCPCS,MODIFIER,DESCRIPTION,ALLOWED SERVICES,ALLOWED CHARGES,PAYMENT
 30000,SG,RESPIRATORY,2,$140.10 ,$38.70 
 ,OTHER,,404,"$64,364.10 ","$50,366.91 "
