@@ -1,9 +1,4 @@
-﻿"CPT only copyright 2021 American Medical Association. All rights reserved.					",,,,,,
-,,,,,,
-"2021 Part B National Summary Data File 
-Code Range: 02) Surgery (10000 - 69999)",,,,,,
-This data table begins with column headers on row 5 and data cells are A-6 through F-17810,,,,,,
-DESCRIPTION,HCPCS,MODIFIER,ALLOWED SERVICES,ALLOWED CHARGES,PAYMENT,
+﻿DESCRIPTION,HCPCS,MODIFIER,ALLOWED SERVICES,ALLOWED CHARGES,PAYMENT,
 CARDIOVASCULAR,33010,OTHER,N/A,$0.00 ,$0.00 ,
 CARDIOVASCULAR,33010,TOTAL,N/A,$0.00 ,$0.00 ,
 CARDIOVASCULAR,33016,80S,N/A,$0.00 ,$0.00 ,

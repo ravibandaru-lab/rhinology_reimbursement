@@ -1,9 +1,4 @@
-﻿"CPT only copyright 2023 American Medical Association. All rights reserved.					",,,,,,
-,,,,,,
-"2023 Part B National Summary Data File 
-Code Range: 02) Surgery (10000 - 69999)",,,,,,
-This data table begins with column headers on row 5 and data cells are A-6 through F-17648,,,,,,
-DESCRIPTION,HCPCS,MODIFIER,ALLOWED SERVICES,ALLOWED CHARGES,PAYMENT,
+﻿DESCRIPTION,HCPCS,MODIFIER,ALLOWED SERVICES,ALLOWED CHARGES,PAYMENT,
 CARDIOVASCULAR,33016,80S,N/A,$0.00 ,$0.00 ,
 CARDIOVASCULAR,33016,OTHER,"3,902 ","$807,370.43 ","$628,150.68 ",
 CARDIOVASCULAR,33016,TOTAL,"3,902 ","$807,370.43 ","$628,150.68 ",
