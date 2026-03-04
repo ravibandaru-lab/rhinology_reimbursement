@@ -5,7 +5,7 @@
 |     Main Figures     |     Supplementary Figures     |   Main Tables   |
 |:--------------------:|:-----------------------------:|:------------------------:|
 | [F1](./Main_Figures/F1) | [SF1](./Supplementary_Figures/SF1)   | [T1](./Supplementary_Tables/ST1) |
-| [F2](./Main_Figures/F2) |  [SF1](./Supplementary_Figures/SF2)  | [T2](./Supplementary_Tables/ST2) |
+| [F2](./Main_Figures/F2) |  [SF2](./Supplementary_Figures/SF2)  | [T2](./Supplementary_Tables/ST2) |
 | [F3](./Main_Figures/F3) |    | |
 | [F4](./Main_Figures/F4) |    |  |
 
