@@ -1,1 +1,5 @@
-Data is compiled from the public data available from the CMS website for medicare physician fee schedules. This is not inflation adjusted.
+Per-year, per-locality Medicare Physician Fee Schedule (PFS) data for the 19
+rhinology CPT codes analyzed in this study (2000-2025), extracted from the
+public CMS PFS look-up data. This is not inflation adjusted.
+rhinology_reimbursement_cpt_codes.xlsx is the source workbook the per-year
+CSVs were exported from.

@@ -1,1 +1,5 @@
-Tables created from the Medicare Part B Fee-For-Service National Summary Data from 2000-2024.
+Tables created from the Medicare Part B Fee-For-Service National Summary Data
+from 2000-2024. The 2009-2024 files contain all HCPCS codes nationwide; the
+2000-2008 files were compiled for this project and cover HCPCS 30000-32999,
+which includes every rhinology code analyzed here. The analysis notebooks
+filter to the 19 rhinology codes of interest.
