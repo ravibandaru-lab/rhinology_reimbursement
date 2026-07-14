@@ -1,1 +1,6 @@
-Generated from later code blocks of ../../Main_Figures/F1/F1.ipynb
+Generated from later code blocks of ../../Main_Figures/F1/F1.ipynb. Per-group
+inflation-adjusted facility price by year (plus an All Procedures row), with
+2000-vs-2025 percent change, number of CPT codes, t-statistic, and p-value.
+Tests are paired t-tests at the CPT-code level (one observation per code,
+averaged across MAC localities); groups containing a single code have no
+within-group replication and report NaN.
