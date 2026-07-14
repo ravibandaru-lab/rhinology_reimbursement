@@ -1,5 +1,8 @@
 Tables created from the Medicare Part B Fee-For-Service National Summary Data
-from 2000-2024. The 2009-2024 files contain all HCPCS codes nationwide; the
-2000-2008 files were compiled for this project and cover HCPCS 30000-32999,
-which includes every rhinology code analyzed here. The analysis notebooks
-filter to the 19 rhinology codes of interest.
+(formerly BESS) from 2000-2024. The 2009-2024 files are the modern CMS
+releases and contain all HCPCS codes nationwide. The 2000-2008 files were
+assembled from the per-code-range CSVs on the original CMS BESS annual CDs
+(retrieved from archived copies of the CMS download pages) and cover the full
+surgery section, HCPCS 10040-69990, which includes every rhinology code
+analyzed here. The analysis notebooks filter to the 19 rhinology codes of
+interest.
